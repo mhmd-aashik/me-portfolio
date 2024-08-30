@@ -8,7 +8,7 @@ export const DATA = {
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Twitter.",
+    "Full-Stack Developer & UI/UX Designer with a passion for crafting innovative digital solutions.",
   summary: `I am a seasoned Full-Stack Developer with extensive experience in JavaScript libraries such as React, coupled with a strong foundation in UI/UX design using industry-leading tools like Figma and Adobe XD. My proficiency extends to modern frameworks including Next.js, Node.js, and MongoDB, where I focus on crafting scalable and efficient solutions tailored to meet client needs.
 
   With a deep understanding of product management, I am passionate about leveraging technology to solve complex problems, transforming ideas into innovative, user-centric products. My holistic approach to development ensures seamless integration between front-end and back-end, creating exceptional digital experiences.`,
