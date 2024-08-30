@@ -91,8 +91,8 @@ export const DATA = {
       location: "Remote",
       title: "Fullstack Developer",
       logoUrl: "/shopify.svg",
-      start: "January 2022",
-      end: "present",
+      start: "January 2024",
+      end: "March 2024",
       description: `"Mastering Modern Web Development with a Project-Based Approach: Building a Full-Stack Enterprise Application" is a JavaScript masterclass designed to provide an immersive, hands-on learning experience. Throughout this course, you'll work on real-world projects that encompass both front-end and back-end development, utilizing the latest JavaScript frameworks and tools.
 
       The course covers a comprehensive curriculum that delves into modern JavaScript, including ES6+ features and best practices. You'll learn front-end development with React.js, focusing on building responsive and dynamic user`,
