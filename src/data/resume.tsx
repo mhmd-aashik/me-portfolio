@@ -70,6 +70,8 @@ export const DATA = {
   apiSkills: ["REST", "GraphQL"],
   authSkills: [
     "JWT",
+    "Clerk",
+    "Auth.js",
     "OAuth",
     "Firebase Auth",
     "NextAuth",
